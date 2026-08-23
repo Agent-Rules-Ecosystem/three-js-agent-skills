@@ -1,7 +1,0 @@
-name: three-js-agent-skills
-version: 1.0.0
-author: Agent-Rules-Ecosystem
-description: "Three.js 3D rendering and graphics optimization skill."
-compatible_rules:
-  - web-agent-rules
-dependencies: []
