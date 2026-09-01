@@ -26,8 +26,22 @@
 
 ---
 
-## 📦 Instalación
+## ⚡ Quick Start
 
+**1. Instala la skill como submódulo**
 ```bash
-git submodule add https://github.com/xolotl-hub/three-js-agent-skills.git .skill/three-js-agent-skills
+git submodule add git@github.com:Agent-Rules-Ecosystem/three-js-agent-skills.git .skill/three-js-agent-skills
 ```
+
+**2. Activa la skill con `$boot`**
+```text
+$boot
+```
+
+**3. Ejecuta el primer comando de la skill**
+```text
+$work agregar escena 3D básica con controles de órbita
+```
+
+---
+
